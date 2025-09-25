@@ -1,3 +1,3 @@
-# TCE Team Summit
+# TCE Team Summit Reference
 
-Firebase studio template 
+Reference application for the TCE Summit workshop
