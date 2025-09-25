@@ -1,0 +1,11 @@
+/* Set the size of the div element that contains the map */
+#map {
+  height: 100%; /* The height is 100% of the browser viewport */
+  width: 100%; /* The width is 100% of the browser viewport */
+}
+/* Optional: Makes the sample page fill the window. */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
